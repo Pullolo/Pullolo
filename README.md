@@ -44,4 +44,4 @@
 ## 👅 Languages
 ![](https://img.shields.io/badge/Polish-Native-red)
 ![](https://img.shields.io/badge/English-High_Level-green)
-![](https://img.shields.io/badge/Deustch-Minimal-blue)
+![](https://img.shields.io/badge/German-Minimal-blue)
