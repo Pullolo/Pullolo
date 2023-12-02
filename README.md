@@ -1,14 +1,11 @@
 # 👋 Hi! I'm Mikołaj
 #### I am 17 years old really enjoy programming, riding motorcycles, gaming and creating wonderful things for the games I play.
 
----
 
 ![17 Years Old](https://img.shields.io/badge/-%20✨%2017%20years%20old%20-orange?style=for-the-badge)
 ![Zielona Góra](https://img.shields.io/badge/-%20🏡%20Zielona%20G%C3%B3ra%20-success?style=for-the-badge)
 ![Elektronik](https://img.shields.io/badge/-%20🍆%20Elektronik%20-%23038cfc?style=for-the-badge)
 ![Programmer](https://img.shields.io/badge/-%20👨‍🎓%20Programming%20Student%20(3/5%20year)%20-blueviolet?style=for-the-badge)
-
-***
 
 ## 🔮 The languages I use
 <p>
@@ -19,14 +16,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
----
 ## 💾 Database technologies I know
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </p>
 
----
 ## 📲 Other stuff I'm interested in
 <p>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
@@ -39,7 +34,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
 </p>
 
----
 ## 😝 About Me
 
 - My name is __Mikołaj Szlosowski__ and I'm a programming student that likes to code and play games in my free time. 🔫
@@ -47,7 +41,6 @@
 
 ✨ _My main goal is to create something inspiring_ ✨
 
----
 ## 👅 Languages
 ![](https://img.shields.io/badge/Polish-Native-red)
 ![](https://img.shields.io/badge/English-High_Level-green)
