@@ -41,6 +41,12 @@
 
 ✨ _My main goal is to create something inspiring_ ✨
 
+## ⚙️ GitHub Analytics
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pullolo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pullolo&layout=compact&langs_count=8&theme=algolia" />
+</p>
+
 ## 👅 Languages
 ![](https://img.shields.io/badge/Polish-Native-red)
 ![](https://img.shields.io/badge/English-High_Level-green)
