@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Mikołaj
-#### I am 18 years old, really enjoy programming, riding motorcycles, gaming and creating wonderful things for the games I play.
+#### I am 19 years old, really enjoy programming, riding motorcycles, gaming and creating wonderful things for the games I play.
 
 
 ![18 Years Old](https://img.shields.io/badge/-%20✨%2018%20years%20old%20-orange?style=for-the-badge)
