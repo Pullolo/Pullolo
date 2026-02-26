@@ -2,7 +2,7 @@
 #### I am 20 years old, really enjoy programming, riding motorcycles, gaming and creating wonderful things for the games I play.
 
 
-![20 Years Old](https://img.shields.io/badge/-%20✨%2019%20years%20old%20-orange?style=for-the-badge)
+![20 Years Old](https://img.shields.io/badge/-%20✨%2020%20years%20old%20-orange?style=for-the-badge)
 ![Zielona Góra](https://img.shields.io/badge/-%20🏡%20Zielona%20G%C3%B3ra%20-success?style=for-the-badge)
 ![Elektronik](https://img.shields.io/badge/-%20🍆%20Elektronik%20-%23038cfc?style=for-the-badge)
 ![Programmer](https://img.shields.io/badge/-%20👨‍🎓%20Programming%20Student%20(5/5%20year)%20-blueviolet?style=for-the-badge)
